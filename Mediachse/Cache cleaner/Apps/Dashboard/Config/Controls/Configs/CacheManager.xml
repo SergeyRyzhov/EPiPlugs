@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DynamicControlInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Uid>8FFDB320-4135-4051-A8EE-8CA37940A127</Uid>
+  <Title>Cache Manager</Title>
+  <Description>Useful module for monitoring and clearing the cache</Description>
+  <Path>~/Apps/Dashboard/Modules/CacheManagerModule.ascx</Path>
+  <Category>MediachaseECF</Category>
+</DynamicControlInfo>
